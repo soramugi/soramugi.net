@@ -1,0 +1,25 @@
+name: soramugi.net
+markdown: redcarpet
+pygments: true
+
+links:
+  -
+    tag: photo
+    date: 0000-00-00 00:00:00 +0900
+    title: soramugimugiさんのInstagramプロフィール
+    url: http://instagram.com/soramugimugi
+  -
+    tag: blog
+    date: 2011-11-14 00:00:00 +0900
+    title: 見方次第
+    url: http://soramugi.hateblo.jp/
+  -
+    tag: book
+    date: 2011-07-04 00:00:00 +0900
+    title: soramugimugiの本棚 (soramugimugi) - ブクログ
+    url: http://booklog.jp/users/soramugimugi
+  -
+    tag: diary
+    date: 2011-01-01 00:00:00 +0900
+    title: 全体的に千葉産です
+    url: http://diary.soramugi.net/
