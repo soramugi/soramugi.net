@@ -6,8 +6,9 @@ title: soramugi.net
 <div id="home">
   <h1>Sites</h1>
   <ul class="posts">
-    {% for link in site.links limit:5 %}
-      <li><span>{{ link.date | date_to_string }} [{{ link.tag }}] </span> &raquo; <a href="{{ link.url }}">{{ link.title }}</a></li>
+    {% for link in site.links %}
+      <li><span>[{{ link.tag }}]</span></li>
+      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
     {% endfor %}
   </ul>
 </div>

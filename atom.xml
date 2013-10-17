@@ -19,7 +19,6 @@ layout: nil
   <entry>
     <title type="html"><![CDATA[{{ link.title | cdata_escape }}]]></title>
     <link href="{{ link.url }}"/>
-    <updated>{{ link.date | date_to_xmlschema }}</updated>
     <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
   </entry>
   {% endfor %}

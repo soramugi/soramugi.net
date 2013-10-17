@@ -7,22 +7,106 @@ google_analytics_tracking_id: UA-43044942-7
 
 links:
   -
+    tag: myservice,clock
+    title: あなたに最適な目覚まし時計
+    url: http://alarmclock.jp.net/
+  -
+    tag: mywork,library
+    title: soramugi/google-drive-client-php
+    url: https://github.com/soramugi/google-drive-client-php
+  -
+    tag: study
+    title: soramugi さんのプロフィール - プログラミングならドットインストール
+    url: http://dotinstall.com/users/soramugi
+  -
+    tag: myservice,metrics
+    title: Social Metrics App
+    url: http://social-metrics-app.herokuapp.com/
+  -
+    tag: slide
+    title: My presentations - slideshare
+    url: http://www.slideshare.net/YudaiTsuyuzaki
+  -
+    tag: game
+    title: soramugi - 将棋ウォーズ
+    url: http://shogiwars.heroz.jp/users/soramugi
+  -
+    tag: myservice,video
+    title: smile中毒
+    url: http://blog.livedoor.jp/nicotwi/
+  -
+    tag: log
+    title: そらむぎ(@soramugi) のツイート - rec
+    url: http://rec.to/soramugi
+  -
+    tag: cook
+    title: そらむぎのキッチン [クックパッド] 簡単おいしいみんなのレシピが156万品
+    url: http://cookpad.com/kitchen/3950656
+  -
+    tag: gif
+    title: そらむぎ (soramugi) on GifBoom - Animated GIFs
+    url: http://gifboom.com/soramugi
+  -
+    tag: make
+    title: 麦畑 - makebooth
+    url: http://makebooth.com/booth/soramugi
+  -
+    tag: video
+    title: そらむぎさんのユーザーページ - niconico
+    url: http://www.nicovideo.jp/user/385545
+  -
+    tag: video
+    title: そらむぎ そらむぎ - YouTube
+    url: https://www.youtube.com/channel/UC5eaitnS8YhTftaSIPKVIYg
+  -
+    tag: interview
+    title: soramugiのインタビュー - 「こうやってこうやってこう」 - ザ・インタビューズ
+    url: http://theinterviews.jp/soramugi
+  -
+    tag: bookmark
+    title: はてなブックマーク - soramugi のブックマーク
+    url: http://b.hatena.ne.jp/soramugi/
+  -
+    tag: location
+    title: 可動式そらむぎさんのステータス | ロケタッチ
+    url: http://tou.ch/member/soramugi/
+  -
+    tag: game
+    title: '9leap : soramugi (そらむぎ) - どこでも遊べる、投稿型ゲームサイト'
+    url: http://9leap.net/user/soramugi
+  -
+    tag: pic
+    title: pic.soramugi.net
+    url: http://pic.soramugi.net/
+  -
+    tag: amazon
+    title: 'Amazon.co.jp: そらむぎ: ほしい物リスト'
+    url: http://www.amazon.co.jp/registry/wishlist/1W2BJ4COKGQI5
+  -
+    tag: music
+    title: Yudai Tsuyuzakiの部屋 - beatrobo
+    url: https://www.beatrobo.com/playground/16138
+  -
     tag: photo
-    date: 0000-00-00 00:00:00 +0900
     title: soramugimugiさんのInstagramプロフィール
     url: http://instagram.com/soramugimugi
   -
     tag: blog
-    date: 2011-11-14 00:00:00 +0900
     title: 見方次第
     url: http://soramugi.hateblo.jp/
   -
     tag: book
-    date: 2011-07-04 00:00:00 +0900
     title: soramugimugiの本棚 (soramugimugi) - ブクログ
     url: http://booklog.jp/users/soramugimugi
   -
     tag: diary
-    date: 2011-01-01 00:00:00 +0900
     title: 全体的に千葉産です
     url: http://diary.soramugi.net/
+  -
+    tag: myhost,bot
+    title: 荻上千佳 (ogiue_bot)さんはTwitterを使っています
+    url: https://twitter.com/ogiue_bot
+  -
+    tag: myhost,bot
+    title: 伊藤千佳 (chika_bot_)さんはTwitterを使っています
+    url: https://twitter.com/chika_bot_
