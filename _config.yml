@@ -3,6 +3,8 @@ url: http://soramugi.net
 markdown: redcarpet
 pygments: true
 
+google_analytics_tracking_id: UA-43044942-7
+
 links:
   -
     tag: photo
