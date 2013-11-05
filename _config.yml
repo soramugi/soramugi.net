@@ -7,6 +7,10 @@ google_analytics_tracking_id: UA-43044942-7
 
 links:
   -
+    tag: blog
+    title: 匂いの日記
+    url: http://fragrance.soramugi.net
+  -
     tag: sound
     title: Yudai Tsuyuzaki’s stream on SoundCloud - Hear the world’s sounds
     url: https://soundcloud.com/yudai-tsuyuzaki
