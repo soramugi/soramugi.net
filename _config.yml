@@ -7,6 +7,10 @@ google_analytics_tracking_id: UA-43044942-7
 
 links:
   -
+    tag: game,data
+    title: HayDay 売店価格表
+    url: http://hayday-data.herokuapp.com
+  -
     tag: game
     title: Miiverse - あなたのプロフィール | Nintendo
     url: https://miiverse.nintendo.net/users/soramugi
