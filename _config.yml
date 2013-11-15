@@ -11,6 +11,22 @@ links:
     title: HayDay 売店価格表
     url: http://hayday-data.herokuapp.com
   -
+    tag: photo
+    title: Tsuyuzaki Yudai (soramugi) on Shots of Me
+    url: http://shots.me/soramugi
+  -
+    tag: music
+    title: jango
+    url: http://www.jango.com/profiles/55001945
+  -
+    tag: blog
+    title: 匂いの日記
+    url: http://fragrance.soramugi.net
+  -
+    tag: sound
+    title: Yudai Tsuyuzaki’s stream on SoundCloud - Hear the world’s sounds
+    url: https://soundcloud.com/yudai-tsuyuzaki
+  -
     tag: game
     title: Miiverse - あなたのプロフィール | Nintendo
     url: https://miiverse.nintendo.net/users/soramugi
