@@ -7,6 +7,10 @@ google_analytics_tracking_id: UA-43044942-7
 
 links:
   -
+    tag: habit
+    title: Lift
+    url: https://lift.do/users/9de7bff9bf0afba9f0f0
+  -
     tag: game,data
     title: HayDay 売店価格表
     url: http://hayday-data.herokuapp.com
