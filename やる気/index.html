@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <title>やる気</title>
+    <style type="text/css" media="screen">
+
+      body{
+        background-color: #000;
+        margin:0;
+        overflow: hidden;
+        padding: 0;
+      }
+      li{
+        font:bold 13px Arial,sans-serif;
+        list-style: none;
+        position:absolute;
+        color: yellow;
+        text-decoration:none;
+        white-space: nowrap;
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+    <ul>
+      <li>やる気</li>
+      <li>動機</li>
+      <li>モチベーション</li>
+      <li>前進への意欲</li>
+      <li>野心</li>
+      <li>野望</li>
+      <li>スケベ心</li>
+      <li>使命感</li>
+      <li>内的動機</li>
+      <li>意志</li>
+    </ul>
+    <a href="http://thesaurus.weblio.jp/content/やる気" style="position:absolute; bottom:0px;">http://thesaurus.weblio.jp/content/やる気</a>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+var x = new Array();
+var y = new Array();
+var z = new Array();
+var xRefe = new Array();
+var yRefe = new Array();
+var zRefe = new Array();
+
+var items = $('li');
+
+function animate()
+{
+    for(i = items.length - 1; i >= 0; i--){
+      var xVar = xRefe[i] + x[i];
+      var yVar = yRefe[i] + y[i] * z[i]++;
+      var zVar = zRefe[i] * z[i]++;
+
+      if (!xVar | xVar < 0 | xVar > 90|
+          yVar < 0 | yVar > 90 |
+          zVar < 0 | zVar > 1500)
+      {
+        x[i] = Math.random() * 2 - 1;
+        y[i] = Math.random() * 2 - 1;
+        z[i] = 2;
+        xRefe[i] = Math.random() * 100;
+        yRefe[i] = Math.random() * 100;
+        zRefe[i] = Math.random() * 10;
+      } else {
+        $(items[i]).css("left", xVar+"%");
+        $(items[i]).css("top", yVar+"%");
+        $(items[i]).css("fontSize", zVar+"%");
+        $(items[i]).css("opacity",(zVar)/3000);
+      }
+    }
+    setTimeout(animate, 9);
+}
+animate();
+// thx!
+// http://www.devirtuoso.com/2009/08/3d-flying-text-in-jquery/
+</script>
+
+  </body>
+</html>
