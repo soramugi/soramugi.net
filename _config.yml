@@ -8,6 +8,14 @@ google_analytics_tracking_id: UA-43044942-7
 
 service_links:
   -
+    tag: service,twitter,tag,summary
+    title: TWordTag
+    url: http://twordtag.herokuapp.com
+  -
+    tag: service,adult
+    title: エロ簡易アンテナ
+    url: http://cryptic-meadow-1277.herokuapp.com
+  -
     tag: service,やる気
     title: やる気
     url: http://soramugi.net/やる気/
