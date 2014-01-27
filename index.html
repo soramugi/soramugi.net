@@ -5,8 +5,16 @@ title: soramugi.net
 
 <div id="home">
   <h1>Sites</h1>
+  <h2>My Service</h2>
   <ul class="posts">
-    {% for link in site.links %}
+    {% for link in site.service_links %}
+      <li><span>[{{ link.tag }}]</span></li>
+      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <h2>Account</h2>
+  <ul class="posts">
+    {% for link in site.account_links %}
       <li><span>[{{ link.tag }}]</span></li>
       <li><a href="{{ link.url }}">{{ link.title }}</a></li>
     {% endfor %}

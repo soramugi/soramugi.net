@@ -5,19 +5,62 @@ pygments: true
 
 google_analytics_tracking_id: UA-43044942-7
 
-links:
+
+service_links:
   -
-    tag: myservice,todo
+    tag: service,やる気
+    title: やる気
+    url: http://soramugi.net/やる気/
+  -
+    tag: service,todo
     title: Kopi List
     url: http://kopilist.gopagoda.com
+  -
+    tag: service,game,data
+    title: HayDay 売店価格表
+    url: http://hayday-data.herokuapp.com
+  -
+    tag: blog
+    title: 匂いの日記
+    url: http://fragrance.soramugi.net
+  -
+    tag: service,clock
+    title: あなたに最適な目覚まし時計
+    url: http://alarmclock.jp.net/
+  -
+    tag: work,library
+    title: soramugi/google-drive-client-php
+    url: https://github.com/soramugi/google-drive-client-php
+  -
+    tag: service,metrics
+    title: Social Metrics App
+    url: http://social-metrics-app.herokuapp.com/
+  -
+    tag: service,video
+    title: smile中毒
+    url: http://blog.livedoor.jp/nicotwi/
+  -
+    tag: pic
+    title: pic.soramugi.net
+    url: http://pic.soramugi.net/
+  -
+    tag: diary
+    title: 全体的に千葉産です
+    url: http://diary.soramugi.net/
+  -
+    tag: host,bot
+    title: 荻上千佳 (ogiue_bot)さんはTwitterを使っています
+    url: https://twitter.com/ogiue_bot
+  -
+    tag: host,bot
+    title: 伊藤千佳 (chika_bot_)さんはTwitterを使っています
+    url: https://twitter.com/chika_bot_
+
+account_links:
   -
     tag: habit
     title: Lift
     url: https://lift.do/users/9de7bff9bf0afba9f0f0
-  -
-    tag: myservice,game,data
-    title: HayDay 売店価格表
-    url: http://hayday-data.herokuapp.com
   -
     tag: photo
     title: Tsuyuzaki Yudai (soramugi) on Shots of Me
@@ -27,10 +70,6 @@ links:
     title: jango
     url: http://www.jango.com/profiles/55001945
   -
-    tag: blog
-    title: 匂いの日記
-    url: http://fragrance.soramugi.net
-  -
     tag: sound
     title: Yudai Tsuyuzaki’s stream on SoundCloud - Hear the world’s sounds
     url: https://soundcloud.com/yudai-tsuyuzaki
@@ -39,49 +78,29 @@ links:
     title: Miiverse - あなたのプロフィール | Nintendo
     url: https://miiverse.nintendo.net/users/soramugi
   -
-    tag: myservice,clock
-    title: あなたに最適な目覚まし時計
-    url: http://alarmclock.jp.net/
-  -
-    tag: mywork,library
-    title: soramugi/google-drive-client-php
-    url: https://github.com/soramugi/google-drive-client-php
-  -
     tag: study
     title: soramugi さんのプロフィール - プログラミングならドットインストール
     url: http://dotinstall.com/users/soramugi
   -
-    tag: myservice,metrics
-    title: Social Metrics App
-    url: http://social-metrics-app.herokuapp.com/
+    tag: book
+    title: soramugimugiの本棚 (soramugimugi) - ブクログ
+    url: http://booklog.jp/users/soramugimugi
   -
-    tag: slide
-    title: My presentations - slideshare
-    url: http://www.slideshare.net/YudaiTsuyuzaki
+    tag: amazon
+    title: 'Amazon.co.jp: そらむぎ: ほしい物リスト'
+    url: http://www.amazon.co.jp/registry/wishlist/1W2BJ4COKGQI5
   -
-    tag: game
-    title: soramugi - 将棋ウォーズ
-    url: http://shogiwars.heroz.jp/users/soramugi
+    tag: music
+    title: Yudai Tsuyuzakiの部屋 - beatrobo
+    url: https://www.beatrobo.com/playground/16138
   -
-    tag: myservice,video
-    title: smile中毒
-    url: http://blog.livedoor.jp/nicotwi/
+    tag: photo
+    title: soramugimugiさんのInstagramプロフィール
+    url: http://instagram.com/soramugimugi
   -
-    tag: log
-    title: そらむぎ(@soramugi) のツイート - rec
-    url: http://rec.to/soramugi
-  -
-    tag: cook
-    title: そらむぎのキッチン [クックパッド] 簡単おいしいみんなのレシピが156万品
-    url: http://cookpad.com/kitchen/3950656
-  -
-    tag: gif
-    title: そらむぎ (soramugi) on GifBoom - Animated GIFs
-    url: http://gifboom.com/soramugi
-  -
-    tag: make
-    title: 麦畑 - makebooth
-    url: http://makebooth.com/booth/soramugi
+    tag: blog
+    title: 見方次第
+    url: http://soramugi.hateblo.jp/
   -
     tag: video
     title: そらむぎさんのユーザーページ - niconico
@@ -107,38 +126,46 @@ links:
     title: '9leap : soramugi (そらむぎ) - どこでも遊べる、投稿型ゲームサイト'
     url: http://9leap.net/user/soramugi
   -
-    tag: pic
-    title: pic.soramugi.net
-    url: http://pic.soramugi.net/
+    tag: slide
+    title: My presentations - slideshare
+    url: http://www.slideshare.net/YudaiTsuyuzaki
   -
-    tag: amazon
-    title: 'Amazon.co.jp: そらむぎ: ほしい物リスト'
-    url: http://www.amazon.co.jp/registry/wishlist/1W2BJ4COKGQI5
+    tag: game
+    title: soramugi - 将棋ウォーズ
+    url: http://shogiwars.heroz.jp/users/soramugi
   -
-    tag: music
-    title: Yudai Tsuyuzakiの部屋 - beatrobo
-    url: https://www.beatrobo.com/playground/16138
+    tag: log
+    title: そらむぎ(@soramugi) のツイート - rec
+    url: http://rec.to/soramugi
   -
-    tag: photo
-    title: soramugimugiさんのInstagramプロフィール
-    url: http://instagram.com/soramugimugi
+    tag: cook
+    title: そらむぎのキッチン [クックパッド] 簡単おいしいみんなのレシピが156万品
+    url: http://cookpad.com/kitchen/3950656
   -
-    tag: blog
-    title: 見方次第
-    url: http://soramugi.hateblo.jp/
+    tag: gif
+    title: そらむぎ (soramugi) on GifBoom - Animated GIFs
+    url: http://gifboom.com/soramugi
   -
-    tag: book
-    title: soramugimugiの本棚 (soramugimugi) - ブクログ
-    url: http://booklog.jp/users/soramugimugi
+    tag: make
+    title: 麦畑 - makebooth
+    url: http://makebooth.com/booth/soramugi
   -
-    tag: diary
-    title: 全体的に千葉産です
-    url: http://diary.soramugi.net/
+    tag: social
+    title: 露崎勇大 - FaceBook
+    url: https://www.facebook.com/Yudai.Tsuyuzaki
   -
-    tag: myhost,bot
-    title: 荻上千佳 (ogiue_bot)さんはTwitterを使っています
-    url: https://twitter.com/ogiue_bot
+    tag: clip,internet
+    title: ハトムギ、玄米、月見草 - Tumblr
+    url: http://soramugi.tumblr.com
   -
-    tag: myhost,bot
-    title: 伊藤千佳 (chika_bot_)さんはTwitterを使っています
-    url: https://twitter.com/chika_bot_
+    tag: tech,blog
+    title: soramugi - Qiita [キータ]
+    url: http://qiita.com/soramugi
+  -
+    tag: code
+    title: soramugi (soramugi) - GitHub
+    url: https://github.com/soramugi
+  -
+    tag: miniblog
+    title: そらむぎ (soramugi)さんはTwitterを使っています
+    url: https://twitter.com/soramugi
