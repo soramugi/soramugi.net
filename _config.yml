@@ -10,7 +10,7 @@ service_links:
   -
     tag: service,twitter,tag,summary
     title: TWordTag
-    url: http://twordtag.herokuapp.com
+    url: http://www.twordtag.com
   -
     tag: service,adult
     title: エロ簡易アンテナ
