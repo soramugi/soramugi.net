@@ -8,10 +8,6 @@ google_analytics_tracking_id: UA-43044942-7
 
 service_links:
   -
-    tag: service,pic
-    title: 篠崎愛
-    url: http://shinozakiai.herokuapp.com
-  -
     tag: service,graph
     title: JR東日本 乗車人員グラフ
     url: http://jrpassenger.soramugi.net
