@@ -73,6 +73,9 @@ service_links:
     url: https://twitter.com/chika_bot_
 
 account_links:
+  - tag: wearable_device
+    title: fitbit
+    url: https://www.fitbit.com/user/2FDPVH
   -
     tag: habit
     title: Lift
