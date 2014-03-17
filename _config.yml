@@ -8,6 +8,10 @@ google_analytics_tracking_id: UA-43044942-7
 
 service_links:
   -
+    tag: service,twitter,image
+    title: FavMedia - Twitterのfavツイート画像閲覧
+    url: http://www.favmedia.me
+  -
     tag: service,searche
     title: 健康になりたい - Twitter検索
     url: http://health-searche.herokuapp.com
@@ -73,7 +77,12 @@ service_links:
     url: https://twitter.com/chika_bot_
 
 account_links:
-  - tag: wearable_device
+  -
+    tag: twitter,image
+    title: soramugi - FavMedia
+    url: http://www.favmedia.me/soramugi
+  -
+    tag: wearable_device
     title: fitbit
     url: https://www.fitbit.com/user/2FDPVH
   -
