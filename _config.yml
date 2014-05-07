@@ -8,6 +8,10 @@ google_analytics_tracking_id: UA-43044942-7
 
 service_links:
   -
+    tag: service,amazon,image
+    title: Amazon Rank
+    url: http://amazon-rank-book.herokuapp.com
+  -
     tag: service,twitter,image
     title: FavMedia - Twitterのfavツイート画像閲覧
     url: http://www.favmedia.me
