@@ -8,6 +8,10 @@ google_analytics_tracking_id: UA-43044942-7
 
 service_links:
   -
+    tag: blog,electronics
+    title: Muchuu
+    url: http://blog.muchuu.net
+  -
     tag: service,amazon,image
     title: Amazon Rank
     url: http://amazon-rank-book.herokuapp.com
