@@ -32,10 +32,6 @@ service_links:
     title: TWordTag
     url: http://www.twordtag.com
   -
-    tag: service,adult
-    title: エロ簡易アンテナ
-    url: http://cryptic-meadow-1277.herokuapp.com
-  -
     tag: service,やる気
     title: やる気
     url: http://soramugi.net/やる気/
